@@ -3,6 +3,8 @@
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados [Analise de dados e criação de Dashboard](https://github.com/GiovaniNobre)
 
+- 👀 Meus interesses são **Data Analytics, Big Data, desenvolvimento**
+
 - 🌱 Eu estou aprendendo sobre **Analise de Dados, Big Data e Power BI**
 
 - 🤝 Tenho um certo conhecimento em **Analise de Dados com Python**
